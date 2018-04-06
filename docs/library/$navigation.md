@@ -17,3 +17,10 @@
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
 - [超长文档页内目录示例](?file=002-文档示范/002-超长文档页内目录示例 "超长文档页内目录示例")
+
+##### Other
+- **Gradle**
+    - **参考文档**
+    - [Android中ProGuard配置和总结](?file=6-Other/01-Gradle/01-Android中ProGuard配置和总结 "Android中ProGuard配置和总结")
+    - [gradle使用笔记](?file=6-Other/01-Gradle/02-gradle使用笔记 "gradle使用笔记")
+    - [Nexus私服搭建](?file=6-Other/01-Gradle/03-Nexus私服搭建 "Nexus私服搭建")

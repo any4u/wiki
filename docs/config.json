@@ -1,4 +1,5 @@
 {
-	"name": "测试文库",
-	"ver":"v1.0"
+	"name": "tany 的wiki",
+	"ver":"v0.1",
+	"page-mounts": true
 }
