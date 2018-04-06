@@ -60,16 +60,16 @@
     - [优化概况](?file=02-02Android/03-Android优化/01-优化概况 "优化概况")
 - **Android工具**
     - **git**
-        - [git章节简述](?file=02-02Android/4-Android工具/01-git/01-git章节简述 "git章节简述")
-    - [一键分析Android的BugReport](?file=02-02Android/4-Android工具/02-一键分析Android的BugReport "一键分析Android的BugReport")
-    - [adb命令](?file=02-02Android/4-Android工具/03-adb命令 "adb命令")
+        - [git章节简述](?file=02-02Android/04-Android工具/01-git/01-git章节简述 "git章节简述")
+    - [一键分析Android的BugReport](?file=02-02Android/04-Android工具/02-一键分析Android的BugReport "一键分析Android的BugReport")
+    - [adb命令](?file=02-02Android/04-Android工具/03-adb命令 "adb命令")
 - **Android源码**
-    - [HandlerThread 源码分析](?file=02-02Android/5-Android源码/01-HandlerThread 源码分析 "HandlerThread 源码分析")
-    - [IntentService的使用和源码分析](?file=02-02Android/5-Android源码/02-IntentService的使用和源码分析 "IntentService的使用和源码分析")
+    - [HandlerThread 源码分析](?file=02-02Android/05-Android源码/01-HandlerThread 源码分析 "HandlerThread 源码分析")
+    - [IntentService的使用和源码分析](?file=02-02Android/05-Android源码/02-IntentService的使用和源码分析 "IntentService的使用和源码分析")
 - **Android辨析**
-    - [常见图片压缩方式](?file=02-02Android/9-Android辨析/101-常见图片压缩方式 "常见图片压缩方式")
-    - [什么是Bitmap](?file=02-02Android/9-Android辨析/102-什么是Bitmap "什么是Bitmap")
-    - [LRU算法](?file=02-02Android/9-Android辨析/103-LRU算法 "LRU算法")
+    - [常见图片压缩方式](?file=02-02Android/09-Android辨析/101-常见图片压缩方式 "常见图片压缩方式")
+    - [什么是Bitmap](?file=02-02Android/09-Android辨析/102-什么是Bitmap "什么是Bitmap")
+    - [LRU算法](?file=02-02Android/09-Android辨析/103-LRU算法 "LRU算法")
 
 ##### 03Kotlin
 - **kotlin特性草稿**
